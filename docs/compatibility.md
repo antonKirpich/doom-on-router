@@ -188,6 +188,7 @@ Since compatibility has been confirmed on SoC: MT7628 and RT3350, the following 
 |-------|--------|--------|
 | **TP-Link TL-WR840N v6** | Mediatek MT7628 | ✅ **It Runs DOOM!** |
 | **Asus RT-N10 rev C1** | Ralink RT3350 | ✅ **It Runs DOOM!** |
+| **Asus RT-N13U ver B1** | Ralink RT3052 | ✅ **It Runs DOOM!** |
 
 Most likely, all routers based on MT76xx and RT3xxx will support this port.
 

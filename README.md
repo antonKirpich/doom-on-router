@@ -33,7 +33,7 @@ To check if your model is compatible to this DOOM port, follow the [instructions
   - SoC: MediaTek [MT7628AN](https://deviwiki.com/wiki/MediaTek_MT7628)  
   - Memory: Flash - 4MB / RAM - 32MB   
   - Architecture: MIPSel (little-endian)  
-  - OS: [OpenWrt](https://openwrt.org/) v.21.02 
+  - OS: OpenWrt v.21.02 
 </details>
 
 <details>
@@ -42,7 +42,16 @@ To check if your model is compatible to this DOOM port, follow the [instructions
   - SoC: Ralink RT3350  
   - Memory: Flash - 4MB / RAM - 32MB  
   - Architecture: MIPSel (little-endian)  
-  - OS: [OpenWrt](https://openwrt.org/) v.21.02 
+  - OS: OpenWrt v.21.02 
+</details>
+
+<details>
+  <summary>Asus RT-N13U ver B1</summary>
+
+  - SoC: Ralink RT3052  
+  - Memory: Flash - 8MB / RAM - 64MB  
+  - Architecture: MIPSel (little-endian)  
+  - OS: OpenWrt v.22.03 
 </details>
 
 # How it works
