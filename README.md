@@ -3,11 +3,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/antonKirpich/doom-on-router)
 
 # DOOM on router (MIPS architecture)
-Play DOOM on your Wi-Fi router! This project ports [doomgeneric](https://github.com/ozkl/doomgeneric) to routers based on the **MIPS (mipsel) architecture**. The game runs headless on the router and streams the video to any browser via WebSockets.
+Play DOOM on your Wi-Fi router! This project ports [doomgeneric](https://github.com/ozkl/doomgeneric) to routers based on the MIPS (mipsel) architecture. The game runs headless on the router and streams the video to any browser via WebSockets.
 
 Many routers are built on this architecture (MIPS is widely used in low-cost and older routers). Check out the list of [compatible routers](docs/compatibility.md).
 
-If you have one, you can try it!
+**If you have one, you can try it!**
 
 ![](./screenshots/DOOMgeneric_gameplay_PC.gif)
 
@@ -136,8 +136,14 @@ Replace x.x.x.x with your router's IP address
 Use WASD/arrows to move, space - fire, E - use, Q/R - strafe.
 
 # Credits
+
+<img align="right" width="100" src="screenshots/doom-guy.png" alt="Doom guy">
+
 Forked from [doomgeneric](https://github.com/ozkl/doomgeneric)  
+
 Network library for WebSockets - [Mongoose](https://github.com/cesanta/mongoose)  
+
+<br clear="all">
 
 # Troubleshooting
 > Errors when running the DOOM executable: "File not found" or "Shared library missing (*.so)"
